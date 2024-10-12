@@ -1,0 +1,14 @@
+# virtual_env
+app/.virtual_env/
+
+# host secrets
+.env 
+
+# personal_info
+mylearnings.txt
+
+# temp file or caches
+*.pyc
+__pycache__
+.DS_Store
+*.sqlite3
